@@ -1,7 +1,8 @@
-# Contributing Guidelines
+# Contributing to UmbraShark
 
-We welcome open-source contributions!
+Thank you for your interest in improving UmbraShark!
 
-- Open an issue before submitting major features
-- Follow conventional commit format
-- Ensure all markdown formatting is clean
+## Development Guidelines
+1. Ensure Manifest V3 compatibility across Chromium/Brave.
+2. Maintain zero-overhead execution on content scripts.
+3. Test fingerprint spoofing profiles before submitting pull requests.
